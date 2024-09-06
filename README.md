@@ -16,15 +16,20 @@
 
 ## Week 2: What do Neurons Encode? Neural Encoding Models
 
-*   **Status:** Not Started
+*   **Status:** Completed
 *   **Summary:** This module introduces the world of neural information coding. You'll learn about the technologies used to record brain activity, develop mathematical formulations to characterize neuron spikes, and investigate variability and noise in the brain, and how models accommodate these factors.
 *   **Notes:**
+    *   [Lecture Note](W2/lecture_note.ipynb)
+*  **Assignment:**
+   *  [compute_sta.py](W2/compute_sta.py)
+   *  [quiz2.py](W2/quiz2.py)
 
 ## Week 3: Extracting Information from Neurons: Neural Decoding
 
-*   **Status:** Not Started
+*   **Status:** Completed
 *   **Summary:** This module focuses on neural decoding—estimating what the brain is seeing, intending, or experiencing from neural activity. Applications include neuroprosthetics and brain-computer interfaces. A guest lecture by Fred Rieke, a notable computational neuroscientist, is included.
 *   **Notes:**
+    *   [Lecture Note](W3/lecture_note.ipynb)
 
 ## Week 4: Information Theory & Neural Coding
 
