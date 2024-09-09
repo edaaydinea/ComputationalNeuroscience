@@ -33,33 +33,38 @@
 
 ## Week 4: Information Theory & Neural Coding
 
-*   **Status:** Not Started
+*   **Status:** Completed
 *   **Summary:** This module explores the connections between information theory and neural coding. It will delve into how information theory principles apply to understanding brain function.
 *   **Notes:**
+    *   [Lecture Note](W4/lecture_note.ipynb)
 
 ## Week 5: Computing in Carbon
 
 *   **Status:** Not Started
 *   **Summary:** This module covers the biophysics of neurons, including the Hodgkin-Huxley model of action potential generation, other neuron models, and the modeling of neuronal structures like dendrites.
 *   **Notes:**
+    *   [Lecture Note](W5/lecture_note.ipynb)
 
 ## Week 6: Computing with Networks
 
 *   **Status:** Not Started
 *   **Summary:** This module explores neuronal network models, including synapses, integrate-and-fire neurons, firing rate models, feedforward networks, and recurrent networks. It will cover how these networks transform inputs to outputs and their dynamic interactions.
 *   **Notes:**
+    *   [Lecture Note](W6/lecture_note.ipynb)
 
 ## Week 7: Networks that Learn: Plasticity in the Brain & Learning
 
 *   **Status:** Not Started
 *   **Summary:** This module investigates synaptic plasticity and learning in the brain. Topics include Hebbian learning, unsupervised learning, sparse coding, and predictive coding.
 *   **Notes:**
+    *   [Lecture Note](W7/lecture_note.ipynb)
 
 ## Week 8: Learning from Supervision and Rewards
 
 *   **Status:** Not Started
 *   **Summary:** This module explores supervised learning and reinforcement learning. It covers supervised learning concepts, backpropagation, reinforcement learning techniques, reward prediction, and neural implementations in the basal ganglia, culminating in an application to fly a helicopter using reinforcement learning.
 *   **Notes:**
+    *   [Lecture Note](W8/lecture_note.ipynb)
 
 ## Certificates
 
