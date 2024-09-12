@@ -20,9 +20,9 @@
 *   **Summary:** This module introduces the world of neural information coding. You'll learn about the technologies used to record brain activity, develop mathematical formulations to characterize neuron spikes, and investigate variability and noise in the brain, and how models accommodate these factors.
 *   **Notes:**
     *   [Lecture Note](W2/lecture_note.ipynb)
-*  **Assignment:**
-   *  [compute_sta.py](W2/compute_sta.py)
-   *  [quiz2.py](W2/quiz2.py)
+*   **Assignment:**
+    *   [compute\_sta.py](W2/compute_sta.py)
+    *   [quiz2.py](W2/quiz2.py)
 
 ## Week 3: Extracting Information from Neurons: Neural Decoding
 
@@ -69,4 +69,4 @@
 ## Certificates
 
 *   **Computational Neuroscience**
-    *   **Link:** \[URL to certificate, if available\]
+    *   **Link:** [View Certificate](https://coursera.org/share/052e1946ca8c3ef47e5eb171a55528a9)
